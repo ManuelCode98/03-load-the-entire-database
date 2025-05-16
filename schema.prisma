@@ -1,0 +1,40 @@
+
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url = env("POSTGRESQL_URL")
+}
+
+model supermarket_list_db {
+    id Int @id @default( autoincrement() )
+    product_name String
+    product_photo String
+    product_amount Int
+    product_price Int
+
+}
+
+model added_Products {
+    id Int @id
+    product_name String
+    product_photo String
+    crossed_out String
+    product_amount Int
+    product_price Int
+    result Int
+}
+
+model crossedOutProduct {
+    id Int @id
+    product_name String
+    product_photo String
+    crossed_out String
+    product_amount Int
+    product_price Int
+    result Int
+    
+}

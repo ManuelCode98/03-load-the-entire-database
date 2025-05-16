@@ -1,0 +1,1059 @@
+[
+{
+"id": 1,
+"product_name": "Manzana",
+"product_photo": "https://i.ibb.co/Vpky4rZf/manzana.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 2,
+"product_name": "Atun de lata entero",
+"product_photo": "https://i.ibb.co/sdCSYyq1/atun-de-lata-entero.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 3,
+"product_name": "Atun de lata rayado",
+"product_photo": "https://i.ibb.co/nMt8R9sL/atun-de-lata-rayado.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 4,
+"product_name": "Pera",
+"product_photo": "https://i.ibb.co/0pfNRV7f/pera.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 5,
+"product_name": "Aceite de oliva",
+"product_photo": "https://i.ibb.co/nM3qH16j/aceite-de-oliva.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 6,
+"product_name": "Queso costeño",
+"product_photo": "https://i.ibb.co/vyH1Qx3/queso-campesino.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 7,
+"product_name": "Queso campesino",
+"product_photo": "https://i.ibb.co/vyH1Qx3/queso-campesino.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 8,
+"product_name": "Queso tajado",
+"product_photo": "https://i.ibb.co/60kNjRQJ/queso-tajado.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 9,
+"product_name": "Azucar",
+"product_photo": "https://i.ibb.co/gbwhSjdy/azucar.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 10,
+"product_name": "Sal",
+"product_photo": "https://i.ibb.co/TDV1pysh/sal.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 11,
+"product_name": "Frijol",
+"product_photo": "https://i.ibb.co/7x3k8pk6/frijol.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 12,
+"product_name": "Mantequilla",
+"product_photo": "https://i.ibb.co/Swx36pWy/mantequilla.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 13,
+"product_name": "Leche liquida",
+"product_photo": "https://i.ibb.co/N2kSB0zr/leche-liquida.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 14,
+"product_name": "Leche en polvo",
+"product_photo": "https://i.ibb.co/mgd2wyT/leche-en-polvo.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 15,
+"product_name": "Uva",
+"product_photo": "https://i.ibb.co/ccMzDwfQ/uva.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 16,
+"product_name": "Fresa",
+"product_photo": "https://i.ibb.co/WvBsJnG9/fresa.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 17,
+"product_name": "Aguacate",
+"product_photo": "https://i.ibb.co/Zp3Vtbm9/aguacate.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 18,
+"product_name": "Aceite vegetal",
+"product_photo": "https://i.ibb.co/0pFsfFMy/aceite-vegetal.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 19,
+"product_name": "Cafe",
+"product_photo": "https://i.ibb.co/jYfsLMg/cafe.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 20,
+"product_name": "Cafe en grano",
+"product_photo": "https://i.ibb.co/mVSGVQCq/cafe.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 21,
+"product_name": "Arróz",
+"product_photo": "https://i.ibb.co/v6XtVpxW/arroz.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 22,
+"product_name": "Kiwi",
+"product_photo": "https://i.ibb.co/2YgZdkCr/kiwi.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 23,
+"product_name": "Zapallo",
+"product_photo": "https://i.ibb.co/DDy7PGsx/zapallo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 24,
+"product_name": "Acondicionador para el cabello",
+"product_photo": "https://i.ibb.co/7JfK7Hb5/acondicionar-para-el-cabello.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 25,
+"product_name": "Ajo en polvo",
+"product_photo": "https://i.ibb.co/S7s6xjbB/ajo-en-polvo.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 26,
+"product_name": "Ajo",
+"product_photo": "https://i.ibb.co/gFT1kQjC/ajo-entero.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 27,
+"product_name": "Alcohol",
+"product_photo": "https://i.ibb.co/7JghxNQW/alcohol.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 28,
+"product_name": "Alimento para gatos",
+"product_photo": "https://i.ibb.co/zHBpsLjz/alimento-para-gatos.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 29,
+"product_name": "Ambientador",
+"product_photo": "https://i.ibb.co/KpRdpVL4/ambientador.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 30,
+"product_name": "Arracacha",
+"product_photo": "https://i.ibb.co/6cTZ9dnj/arracacha.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 31,
+"product_name": "Arveja",
+"product_photo": "https://i.ibb.co/Fk6sDpmq/arveja.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 32,
+"product_name": "Avena",
+"product_photo": "https://i.ibb.co/pjSVyBr8/avena-en-hojuelas.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 33,
+"product_name": "Avena en polvo",
+"product_photo": "https://i.ibb.co/FM2s4tw/avena-en-polvo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 34,
+"product_name": "Banano",
+"product_photo": "https://i.ibb.co/NgxWncdm/banano.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 35,
+"product_name": "Batavia",
+"product_photo": "https://i.ibb.co/yF8Ns5mm/batavia.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 36,
+"product_name": "Lechuga",
+"product_photo": "https://i.ibb.co/yF8Ns5mm/batavia.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 37,
+"product_name": "Brocoli",
+"product_photo": "https://i.ibb.co/WW3xNFHt/brocoli.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 38,
+"product_name": "Carne de cerdo",
+"product_photo": "https://i.ibb.co/nq11z2x6/carne-de-cerdo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 39,
+"product_name": "Carne de res",
+"product_photo": "https://i.ibb.co/R1jDqQy/carne-de-res.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 40,
+"product_name": "Cebolla cabezona blanca",
+"product_photo": "https://i.ibb.co/5hPDKyyY/cebolla-cabezona-blanca.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 41,
+"product_name": "Cebolla cabezona morada",
+"product_photo": "https://i.ibb.co/1t6VJD4G/Cebolla-Cabezona-Roja.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 42,
+"product_name": "Cebolla larga",
+"product_photo": "https://i.ibb.co/fYjfNV4m/cebolla-larga.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 43,
+"product_name": "Chocoramo",
+"product_photo": "https://i.ibb.co/zTKb0td2/chocoramo.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 44,
+"product_name": "Cilantro",
+"product_photo": "https://i.ibb.co/35FP3tQL/cilantro.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 45,
+"product_name": "Cloro",
+"product_photo": "https://i.ibb.co/RGQydsVm/cloro.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 46,
+"product_name": "Coliflor",
+"product_photo": "https://i.ibb.co/F4ppV8g1/coliflor.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 47,
+"product_name": "Comino molido",
+"product_photo": "https://i.ibb.co/wNSyY673/comino-molido.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 48,
+"product_name": "Crema de dientes",
+"product_photo": "https://i.ibb.co/fVgW52Cq/crema-de-dientes.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 49,
+"product_name": "Crema de peinar",
+"product_photo": "https://i.ibb.co/ZpyyJV5v/crema-de-peinar.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 50,
+"product_name": "Cucas",
+"product_photo": "https://i.ibb.co/yFhK36wN/cucas.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 51,
+"product_name": "Cuchilla dorco",
+"product_photo": "https://i.ibb.co/VpNB1NtH/cuchilla-dorco.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 52,
+"product_name": "Desodorante",
+"product_photo": "https://i.ibb.co/VcvDbvVR/desodorante.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 53,
+"product_name": "Esponja de lavaplatos",
+"product_photo": "https://i.ibb.co/C5f7sJhQ/esponja-lavaplatos.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 54,
+"product_name": "Frijol caraota",
+"product_photo": "https://i.ibb.co/PZhzhx4Y/frijol-caraota.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 55,
+"product_name": "Galleta ducales",
+"product_photo": "https://i.ibb.co/hJjDCdK5/galleta-ducales.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 56,
+"product_name": "Galleta integral",
+"product_photo": "https://i.ibb.co/wFkFtkHy/galleta-integral.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 57,
+"product_name": "Galleta saltin",
+"product_photo": "https://i.ibb.co/Df1N9Vt2/galleta-saltin.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 58,
+"product_name": "Garbanzo",
+"product_photo": "https://i.ibb.co/1Yz2YF2S/garbanzo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 59,
+"product_name": "Guineo",
+"product_photo": "https://i.ibb.co/35zMYjcV/guineo.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 60,
+"product_name": "Habichuela",
+"product_photo": "https://i.ibb.co/5xLrC4sC/habichuela.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 61,
+"product_name": "Harina de trigo",
+"product_photo": "https://i.ibb.co/8DFpPPX4/harina-de-trigo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 62,
+"product_name": "Harina pan",
+"product_photo": "https://i.ibb.co/KcBfsrq2/harina-pan.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 63,
+"product_name": "Hoja de laurel",
+"product_photo": "https://i.ibb.co/Jjk0qycP/hoja-de-laurel.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 64,
+"product_name": "Huevos",
+"product_photo": "https://i.ibb.co/xtJSRkvY/huevos.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 65,
+"product_name": "Jabon de baño",
+"product_photo": "https://i.ibb.co/rKsCp7gc/jabon-de-ba-o.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 66,
+"product_name": "Jabon de mano",
+"product_photo": "https://i.ibb.co/Z0v5hrm/jabon-de-mano.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 67,
+"product_name": "Jabon en polvo",
+"product_photo": "https://i.ibb.co/B2NwMtby/jabon-en-polvo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 68,
+"product_name": "Jabon de lavaplatos en crema",
+"product_photo": "https://i.ibb.co/tPKmh4XV/jabon-lavaplatos-en-crema.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 69,
+"product_name": "Jabon de lavaplatos liquido",
+"product_photo": "https://i.ibb.co/BVW9V09R/jabon-lavaplatos-liquido.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 70,
+"product_name": "Jamon",
+"product_photo": "https://i.ibb.co/R4CJc1rs/jamon.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 71,
+"product_name": "Kumis",
+"product_photo": "https://i.ibb.co/v6gY7Tkt/kumis.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 72,
+"product_name": "Lenteja",
+"product_photo": "https://i.ibb.co/9mB0wcrC/lenteja.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 73,
+"product_name": "Limon mandarino",
+"product_photo": "https://i.ibb.co/W44SK6cd/Limon-Mandarino.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 74,
+"product_name": "Lulo",
+"product_photo": "https://i.ibb.co/SX9GMn57/lulo.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 75,
+"product_name": "Manga",
+"product_photo": "https://i.ibb.co/KzLrxgBX/manga.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 76,
+"product_name": "Mango",
+"product_photo": "https://i.ibb.co/TDNwmRRZ/mango.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 77,
+"product_name": "Maquina de afeitar",
+"product_photo": "https://i.ibb.co/KprPNzhP/maquina-de-afeitar.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 78,
+"product_name": "Maracuya",
+"product_photo": "https://i.ibb.co/C5NFTR0v/maracuya.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 79,
+"product_name": "Mata mosquitos en aerosol",
+"product_photo": "https://i.ibb.co/RktDpdVW/mata-mosquitos-en-aerosol.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 80,
+"product_name": "Mata mosquitos en espiral",
+"product_photo": "https://i.ibb.co/DspGH4S/mata-mosquitos-en-espiral.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 81,
+"product_name": "Melon",
+"product_photo": "https://i.ibb.co/LMxGQnW/melon.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 82,
+"product_name": "Mora",
+"product_photo": "https://i.ibb.co/pjqcJMjB/mora.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 83,
+"product_name": "Oregano molido",
+"product_photo": "https://i.ibb.co/99v2p7Fw/oregano-molido.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 84,
+"product_name": "Pan tajado integral",
+"product_photo": "https://i.ibb.co/gbBdQwrh/pan-tajado-integral.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 85,
+"product_name": "Pan tajado",
+"product_photo": "https://i.ibb.co/tMJ0QMR2/pan-tajado.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 86,
+"product_name": "Paño super absorbente",
+"product_photo": "https://i.ibb.co/JWB49jvP/pa-o-super-absorbente.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 87,
+"product_name": "Papa amarilla",
+"product_photo": "https://i.ibb.co/4RQ5mywm/papa-amarilla.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 88,
+"product_name": "Papa parda",
+"product_photo": "https://i.ibb.co/pHxmkWT/papa-parda.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 89,
+"product_name": "Pasta corta",
+"product_photo": "https://i.ibb.co/Rkpgyq3h/pasta-corta.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 90,
+"product_name": "Pasta larga",
+"product_photo": "https://i.ibb.co/ksD2Gcc3/pasta-larga.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 91,
+"product_name": "Pepino",
+"product_photo": "https://i.ibb.co/B5kkGJwW/pepino.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 92,
+"product_name": "Pescado",
+"product_photo": "https://i.ibb.co/TxKJNp5M/pescado.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 93,
+"product_name": "Pimenton",
+"product_photo": "https://i.ibb.co/5WpK4T1T/pimenton.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 94,
+"product_name": "Pimienta negra en polvo",
+"product_photo": "https://i.ibb.co/jkrMccw5/pimienta-negra-en-polvo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 95,
+"product_name": "Platano maduro",
+"product_photo": "https://i.ibb.co/wrg7Dmy7/platano-maduro.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 96,
+"product_name": "Platano verde",
+"product_photo": "https://i.ibb.co/yBd2RYHc/platano-verde.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 97,
+"product_name": "Ala de pollo",
+"product_photo": "https://i.ibb.co/vCHNYxpc/pollo-alita.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 98,
+"product_name": "Muslo de pollo",
+"product_photo": "https://i.ibb.co/ynYMphG3/pollo-muslo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 99,
+"product_name": "Pechuga de pollo",
+"product_photo": "https://i.ibb.co/F4f8Wz0Z/pollo-pechuga.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 100,
+"product_name": "Repollo",
+"product_photo": "https://i.ibb.co/gbMbqrW9/repollo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 101,
+"product_name": "Shampoo",
+"product_photo": "https://i.ibb.co/gbF03ppH/shampoo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 102,
+"product_name": "Tocineta",
+"product_photo": "https://i.ibb.co/Y4xzPHFN/tocineta.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 103,
+"product_name": "Tomate de arbol",
+"product_photo": "https://i.ibb.co/mrqLyPv1/tomate-de-arbol.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 104,
+"product_name": "Tomate",
+"product_photo": "https://i.ibb.co/SX99V2kv/tomate.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 105,
+"product_name": "Yogurt griego",
+"product_photo": "https://i.ibb.co/MkmR3vrG/yogurt-griego.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 106,
+"product_name": "Yogurt",
+"product_photo": "https://i.ibb.co/p84KMdH/yogurt.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 107,
+"product_name": "Yuca",
+"product_photo": "https://i.ibb.co/hJxCSPzd/yuca.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 108,
+"product_name": "Zanahoria",
+"product_photo": "https://i.ibb.co/BVpDPG56/zanahoria.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 109,
+"product_name": "Manteca de cerdo",
+"product_photo": "https://i.ibb.co/NP0SMp3/manteca-de-cerdo.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 110,
+"product_name": "Papel higienico",
+"product_photo": "https://i.ibb.co/5hx8b3dH/Papel-higienico.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 111,
+"product_name": "Bolsa de basura",
+"product_photo": "https://i.ibb.co/Z6jCp1JC/bolsa-de-basura.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 112,
+"product_name": "Soflan",
+"product_photo": "https://i.ibb.co/q37H7pb7/soflan.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 113,
+"product_name": "Ulluco",
+"product_photo": "https://i.ibb.co/Lhk8ghBD/ulluco.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 114,
+"product_name": "Espagueti corto",
+"product_photo": "https://i.ibb.co/67tFZ7yf/espagueti-corto.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 115,
+"product_name": "Fideos",
+"product_photo": "https://i.ibb.co/Mvf93CY/fideos.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 116,
+"product_name": "Acelga",
+"product_photo": "https://i.ibb.co/99C2myHZ/acelga.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 117,
+"product_name": "Aliños",
+"product_photo": "https://i.ibb.co/sB3JJ7s/ali-os.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 118,
+"product_name": "Apio",
+"product_photo": "https://i.ibb.co/Gf82W9KM/apio.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 119,
+"product_name": "Arandanos",
+"product_photo": "https://i.ibb.co/mVtNZPP0/Ar-ndanos.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 120,
+"product_name": "Aromatica",
+"product_photo": "https://i.ibb.co/TD5BCs8m/aromatica.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 121,
+"product_name": "Chorizo",
+"product_photo": "https://i.ibb.co/PsrTGvsW/chorizo.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 122,
+"product_name": "Clorox ropa color",
+"product_photo": "https://i.ibb.co/wF8Pzf36/clorox-ropa-color.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 123,
+"product_name": "Desodorante en aerosol",
+"product_photo": "https://i.ibb.co/LhQwbpQg/desodorante-aerosol.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 124,
+"product_name": "Espinaca",
+"product_photo": "https://i.ibb.co/HD69rGmj/espinaca.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 125,
+"product_name": "Frutos secos",
+"product_photo": "https://i.ibb.co/KzVVMLHc/frutos-secos.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 126,
+"product_name": "Gaseosa",
+"product_photo": "https://i.ibb.co/FbVVnBk0/gaseosa.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 127,
+"product_name": "Granola",
+"product_photo": "https://i.ibb.co/M5f82d6X/granola.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 128,
+"product_name": "Maggi",
+"product_photo": "https://i.ibb.co/wh2dBxvd/maggi.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 129,
+"product_name": "Maiz crispetas",
+"product_photo": "https://i.ibb.co/0jWqWBvH/maiz-crispetas.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 130,
+"product_name": "Maiz en lata",
+"product_photo": "https://i.ibb.co/814T1P4/maiz-en-lata.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 131,
+"product_name": "Maiz",
+"product_photo": "https://i.ibb.co/hRk3x6s7/maiz.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 132,
+"product_name": "Choclo",
+"product_photo": "https://i.ibb.co/hRk3x6s7/maiz.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 133,
+"product_name": "Mandarina",
+"product_photo": "https://i.ibb.co/3mtZhbtt/mandarina.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 134,
+"product_name": "Mani",
+"product_photo": "https://i.ibb.co/6c95bMZq/mani.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 135,
+"product_name": "Mortadela",
+"product_photo": "https://i.ibb.co/7dTMJf8d/mortadela.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 136,
+"product_name": "Mostaza",
+"product_photo": "https://i.ibb.co/99vYWLYc/mostaza.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 137,
+"product_name": "Naranja",
+"product_photo": "https://i.ibb.co/q38RSh63/naranja.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 138,
+"product_name": "Paños humedos para gatos",
+"product_photo": "https://i.ibb.co/yF3dP4Bc/pa-os-humedos-de-gato.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 139,
+"product_name": "Paños humedos",
+"product_photo": "https://i.ibb.co/yF8jMwc4/pa-os-humedos.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 140,
+"product_name": "Papaya",
+"product_photo": "https://i.ibb.co/HTZZcS9d/papaya.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 141,
+"product_name": "Quita manchas",
+"product_photo": "https://i.ibb.co/SDsqFJ4q/quita-manchas.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 142,
+"product_name": "Remolacha",
+"product_photo": "https://i.ibb.co/wF1N7vYk/remolacha.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 143,
+"product_name": "Sandia",
+"product_photo": "https://i.ibb.co/270D1YJ3/sandia.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 144,
+"product_name": "Sardina en lata",
+"product_photo": "https://i.ibb.co/QFPC6sff/sardinas-en-lata.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 145,
+"product_name": "Servilleta",
+"product_photo": "https://i.ibb.co/fYFDxPc2/servilleta.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 146,
+"product_name": "Talco",
+"product_photo": "https://i.ibb.co/QFtjr8Kx/talco.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 147,
+"product_name": "Toalla higienica",
+"product_photo": "https://i.ibb.co/P2RV486/toalla-higienica.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 148,
+"product_name": "Velas de incienso",
+"product_photo": "https://i.ibb.co/4RY3SGXv/velas-de-incienso.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 149,
+"product_name": "Vela",
+"product_photo": "https://i.ibb.co/gZG7NvRw/vela.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 150,
+"product_name": "Salsa roja",
+"product_photo": "https://i.ibb.co/B2Cn4jyg/Salsa-roja.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 151,
+"product_name": "Pasta de tomate",
+"product_photo": "https://i.ibb.co/d4FkYzhL/Pasta-de-tomate.jpg",
+"product_amount": 0,
+"product_price": 0
+}
+]
