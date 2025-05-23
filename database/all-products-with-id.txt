@@ -1055,5 +1055,82 @@
 "product_photo": "https://i.ibb.co/d4FkYzhL/Pasta-de-tomate.jpg",
 "product_amount": 0,
 "product_price": 0
+},
+{
+"id": 152,
+"product_name": "Otros",
+"product_photo": "https://i.ibb.co/7xDHmRTK/otros.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 153,
+"product_name": "Papel aluminio",
+"product_photo": "https://i.ibb.co/KzhW8XRD/Papel-Aluminio.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 154,
+"product_name": "Quinua",
+"product_photo": "https://i.ibb.co/PGVnzL7V/quinua.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 155,
+"product_name": "Salsa queso cheddar",
+"product_photo": "https://i.ibb.co/zh4YxcHG/Salsa-queso-cheddar.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 156,
+"product_name": "Mayonesa",
+"product_photo": "https://i.ibb.co/fzykQPr0/Mayonesa.png",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 157,
+"product_name": "Creolina",
+"product_photo": "https://i.ibb.co/nNbhz97f/7704701203021.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 159,
+"product_name": "Dorito",
+"product_photo": "https://i.ibb.co/0VYLHCY5/Dorito.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 158,
+"product_name": "Doritos flaming hot",
+"product_photo": "https://i.ibb.co/nNbhz97f/7704701203021.jpg",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 160,
+"product_name": "Cheetos boliqueso",
+"product_photo": "https://i.ibb.co/jZVSnF5C/Cheetos-boliqueso.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 161,
+"product_name": "Cheetos natural",
+"product_photo": "https://i.ibb.co/Zpy1845B/Cheetos-natural.webp",
+"product_amount": 0,
+"product_price": 0
+},
+{
+"id": 162,
+"product_name": "Detodito mix",
+"product_photo": "https://i.ibb.co/JR6fJ3v3/images-1.jpg",
+"product_amount": 0,
+"product_price": 0
 }
 ]
