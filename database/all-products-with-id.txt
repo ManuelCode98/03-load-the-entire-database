@@ -519,7 +519,7 @@
     },
     {
         "id": 75,
-        "product_name": "Manga",
+        "product_name": "Mango grande",
         "product_photo": "https://i.ibb.co/KzLrxgBX/manga.jpg",
         "product_amount": 0,
         "product_price": 0
